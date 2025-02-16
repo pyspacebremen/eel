@@ -1,7 +1,9 @@
 # pySpaceBremen
 
-## eel
-Python Web (Electron) App
+
+## Python Web (Electron) App
+
+mit dem Python Modul ist es einfach möglich Desktop Web Applikationen zu erstellen.
 
 
 ``` python
