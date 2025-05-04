@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Wie schreibe ich Python code"
 ---
 
 # Welcome
